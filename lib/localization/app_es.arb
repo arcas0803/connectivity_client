@@ -1,0 +1,5 @@
+{
+    "@@locale": "es",
+    "noInternetConnection": "No hay conexión a Internet. Por favor, compruebe su conexión",
+    "canNotCheckConnectivity": "No es posible comprobar la conectividad"
+}
